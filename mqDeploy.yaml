@@ -16,6 +16,7 @@ spec:
     storage:
       queueManager:
         enabled: true
+    defaultClass: fusionsds-scale-remote-shared
     availability:
       #type: MultiInstance
       type: SingleInstance
